@@ -1,11 +1,11 @@
 {
-  "completed_cards": 53,
-  "pending_cards": 15,
-  "completed_assets": 183,
-  "pending_assets": 21,
+  "completed_cards": 60,
+  "pending_cards": 8,
+  "completed_assets": 191,
+  "pending_assets": 13,
   "by_kind": {
-    "cover": 59,
-    "focus": 57,
+    "cover": 63,
+    "focus": 61,
     "logo": 67
   },
   "pending": [
@@ -31,7 +31,6 @@
       "id": "folder-Y0JJD3MR",
       "title": "Süper Kahraman",
       "missing": [
-        "focus",
         "logo"
       ]
     },
@@ -45,22 +44,6 @@
       ]
     },
     {
-      "index": 36,
-      "id": "folder-BSBOOK01",
-      "title": "Kitap",
-      "missing": [
-        "focus"
-      ]
-    },
-    {
-      "index": 46,
-      "id": "folder-651D1072",
-      "title": "Suç Koleksiyonları",
-      "missing": [
-        "cover"
-      ]
-    },
-    {
       "index": 48,
       "id": "folder-B362DBAF",
       "title": "Aile ve Animasyon Koleksiyonları",
@@ -69,27 +52,11 @@
       ]
     },
     {
-      "index": 51,
-      "id": "folder-C2A6842E",
-      "title": "Gizem Koleksiyonları",
-      "missing": [
-        "cover"
-      ]
-    },
-    {
       "index": 58,
       "id": "folder-E7NOL7FT",
       "title": "Müzik ve Konser Belgeselleri",
       "missing": [
         "cover",
-        "focus"
-      ]
-    },
-    {
-      "index": 62,
-      "id": "folder-9RSYJL73",
-      "title": "Aile İçin Keşfet",
-      "missing": [
         "focus"
       ]
     },
@@ -110,32 +77,10 @@
         "cover",
         "focus"
       ]
-    },
-    {
-      "index": 65,
-      "id": "folder-N8CJYFAA",
-      "title": "Cumartesi Sabahı ve Nostaljik Çizgi Filmler",
-      "missing": [
-        "cover"
-      ]
-    },
-    {
-      "index": 66,
-      "id": "folder-IK22D8R8",
-      "title": "Okul Öncesi ve Küçük Çocuklar",
-      "missing": [
-        "cover"
-      ]
-    },
-    {
-      "index": 67,
-      "id": "folder-9EGSPU2W",
-      "title": "Disney Channel ve Aile Dizileri",
-      "missing": [
-        "focus"
-      ]
     }
   ],
   "preview_note": "Only completely localized cards use new artwork. Pending cards retain original artwork URLs. This is not the final all-Turkish JSON.",
-  "prime_note": "119/TR filters configured in all 48 Prime Video sources; live catalog test not performed."
+  "prime_note": "119/TR filters configured in all 48 Prime Video sources; live catalog test not performed.",
+  "method": "built-in image_gen only",
+  "blocked_reason": "13 remaining image edits rejected by the image generation safety filter on repeated attempts. User requires all images to use imagegen; no classical editing was applied."
 }
