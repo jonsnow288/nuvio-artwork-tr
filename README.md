@@ -1,3 +1,5 @@
+Güncel sürüm: [500 × 288 koleksiyon JSON](nuvio-koleksiyonlar-Turkce-500.json). Film Koleksiyonları tamamen kaldırıldı. 56 Türkçe kapak ve odak görseli 500 × 288, WebP kalite 85. [Boyut listesi](nuvio-kapak-boyutlari-500.md). Başlık logoları aynı kaldı.
+
 # Nuvio Türkçe koleksiyon görselleri
 
 Son dosya: [nuvio-koleksiyonlar-Turkce-Tam.json](nuvio-koleksiyonlar-Turkce-Tam.json).
