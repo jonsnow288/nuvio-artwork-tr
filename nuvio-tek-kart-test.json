@@ -1,0 +1,178 @@
+[
+  {
+    "id": "collection-tr-artwork-test",
+    "title": "Türkçe Artwork Testi",
+    "folders": [
+      {
+        "id": "folder-tr-aksiyon-test",
+        "title": "Aksiyon",
+        "sources": [
+          {
+            "id": "src-H5ON8M2K",
+            "name": "Aksiyon",
+            "genre": "Action",
+            "title": "Yeni Filmler",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 10,
+              "withoutGenres": "16,99",
+              "vote_count.gte": 10,
+              "without_genres": "16,99",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "id": "src-YLKOHL2B",
+            "name": "Aksiyon ve Macera",
+            "genre": "Action & Adventure",
+            "title": "Yeni Diziler",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10759",
+              "voteCountGte": 10,
+              "vote_count.gte": 10,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "id": "src-WNTKM4OX",
+            "name": "Aksiyon",
+            "genre": "Action",
+            "title": "Popüler Filmler",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 75,
+              "withoutGenres": "16,99",
+              "vote_count.gte": 75,
+              "without_genres": "16,99",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "id": "src-5XI18T7K",
+            "name": "Aksiyon ve Macera",
+            "genre": "Action & Adventure",
+            "title": "Popüler Diziler",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10759",
+              "voteCountGte": 40,
+              "vote_count.gte": 40,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "id": "src-F6KUKTUV",
+            "name": "Aksiyon",
+            "genre": "Action",
+            "title": "Tüm Zamanların En İyi Filmleri",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 1000,
+              "withoutGenres": "16,99",
+              "vote_count.gte": 1000,
+              "without_genres": "16,99",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "id": "src-JT1D7XBD",
+            "name": "Aksiyon ve Macera",
+            "genre": "Action & Adventure",
+            "title": "Tüm Zamanların En İyi Dizileri",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10759",
+              "voteCountGte": 500,
+              "vote_count.gte": 500,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "id": "src-I4KRJRFR",
+            "name": "Aksiyon",
+            "genre": "Action",
+            "title": "Yılın En İyi Filmleri",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "year": 2026,
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "withoutGenres": "16,99",
+              "releaseDateGte": "2026-01-01",
+              "releaseDateLte": "2026-12-31",
+              "vote_count.gte": 100,
+              "without_genres": "16,99",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "id": "src-GQHAYRZA",
+            "name": "Aksiyon ve Macera",
+            "genre": "Action & Adventure",
+            "title": "Yılın En İyi Dizileri",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "year": 2026,
+              "withGenres": "10759",
+              "voteCountGte": 100,
+              "releaseDateGte": "2026-01-01",
+              "releaseDateLte": "2026-12-31",
+              "vote_count.gte": 100,
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/jonsnow288/nuvio-artwork-tr/main/assets/tr/aksiyon-kapak.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://art.kaptain.stream/genres/action/live/backdrop.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  }
+]
