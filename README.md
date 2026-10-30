@@ -1,3 +1,5 @@
+Güncel kompakt sürüm: [JSON](nuvio-koleksiyonlar-Turkce-500-Kompakt.json), [boyutlar](nuvio-kapak-boyutlari-500-compact.md). 500 × 288, WebP kalite 45; 56 kapak 592.460 bayt, 56 odak 631.510 bayt.
+
 En güncel küçük dosya sürümü: [JSON](nuvio-koleksiyonlar-Turkce-500-Kucuk.json), [boyutlar](nuvio-kapak-boyutlari-500-small.md). 500 × 288, WebP kalite 65; 56 kapak 752.922 bayt, 56 odak görseli 804.726 bayt.
 
 Güncel sürüm: [500 × 288 koleksiyon JSON](nuvio-koleksiyonlar-Turkce-500.json). Film Koleksiyonları tamamen kaldırıldı. 56 Türkçe kapak ve odak görseli 500 × 288, WebP kalite 85. [Boyut listesi](nuvio-kapak-boyutlari-500.md). Başlık logoları aynı kaldı.
