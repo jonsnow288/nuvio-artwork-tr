@@ -1,86 +1,17 @@
 {
-  "completed_cards": 60,
-  "pending_cards": 8,
-  "completed_assets": 191,
-  "pending_assets": 13,
-  "by_kind": {
-    "cover": 63,
-    "focus": 61,
-    "logo": 67
-  },
-  "pending": [
-    {
-      "index": 7,
-      "id": "folder-FWKG65UR",
-      "title": "Aile",
-      "missing": [
-        "cover",
-        "focus"
-      ]
-    },
-    {
-      "index": 15,
-      "id": "folder-GXG1NG9E",
-      "title": "Romantik",
-      "missing": [
-        "focus"
-      ]
-    },
-    {
-      "index": 20,
-      "id": "folder-Y0JJD3MR",
-      "title": "Süper Kahraman",
-      "missing": [
-        "logo"
-      ]
-    },
-    {
-      "index": 32,
-      "id": "folder-M50463BF",
-      "title": "Karanlık ve Sert",
-      "missing": [
-        "cover",
-        "focus"
-      ]
-    },
-    {
-      "index": 48,
-      "id": "folder-B362DBAF",
-      "title": "Aile ve Animasyon Koleksiyonları",
-      "missing": [
-        "focus"
-      ]
-    },
-    {
-      "index": 58,
-      "id": "folder-E7NOL7FT",
-      "title": "Müzik ve Konser Belgeselleri",
-      "missing": [
-        "cover",
-        "focus"
-      ]
-    },
-    {
-      "index": 63,
-      "id": "folder-9L1UCO4Y",
-      "title": "Animasyon Stüdyoları",
-      "missing": [
-        "cover",
-        "focus"
-      ]
-    },
-    {
-      "index": 64,
-      "id": "folder-3DCDF32B",
-      "title": "Ailece Film Gecesi",
-      "missing": [
-        "cover",
-        "focus"
-      ]
-    }
-  ],
-  "preview_note": "Only completely localized cards use new artwork. Pending cards retain original artwork URLs. This is not the final all-Turkish JSON.",
-  "prime_note": "119/TR filters configured in all 48 Prime Video sources; live catalog test not performed.",
-  "method": "built-in image_gen only",
-  "blocked_reason": "13 remaining image edits rejected by the image generation safety filter on repeated attempts. User requires all images to use imagegen; no classical editing was applied."
+  "collections": 9,
+  "folders": 328,
+  "sources": 1238,
+  "localized_cards": 66,
+  "localized_assets": 198,
+  "prime_sources_adjusted": 48,
+  "prime_live_test": "Not performed",
+  "json_sha256": "85dd7224c3d842a72e7a82bf57eccd80f047d2278ce600a5784769374394cc84",
+  "pending_assets": [],
+  "compression": {
+    "assets": 201,
+    "png_bytes": 316083090,
+    "webp_bytes": 210424456,
+    "pixel_equality_verified": true
+  }
 }
